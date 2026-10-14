@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 我是 Orvin 👋
 
 <!--
 **oooooab/oooooab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,12 +6,24 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+我热爱计算机科学与工程，主攻软硬件交叉方向。擅长搭建完整嵌入式系统，工作范围涵盖layout设计，底层固件开发，直至实时算法部署等。
 
+## 核心能力
+
+嵌入式硬件设计与硬件调试、边缘端实时计算、传统图像处理以及低光照图像增强。熟练使用 STM32、ESP32 等单片机平台，能够完成全流程开发：电路设计、PCB 布线、外设驱动编写、多传感器融合、运动控制，以及端侧视觉算法优化。
+
+## 竞赛经历
+
+积极参与全国工程类竞赛：全国大学生智能汽车竞赛、电子设计竞赛、嵌入式系统设计竞赛。主要研究高性能实时控制系统、机电一体化集成，以及在硬件资源受限条件下部署嵌入式视觉；拥有在严苛时序与硬件限制下进行系统调优的实战经验。
+
+## 研究与兴趣方向
+
+嵌入式 Linux、实时操作系统（RTOS）、实时控制理论、图像复原与增强、硬件加速、C/C++ 底层系统编程。
+
+欢迎技术交流、项目合作与工程思路探讨。如果有嵌入式、硬件、计算机视觉或机器人相关话题，欢迎联系。
+
+## 联系方式
+
+邮箱：3497359328@qq.com
+
+bilibili：ooooOab
